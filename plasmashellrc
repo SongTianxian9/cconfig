@@ -16,6 +16,10 @@ thickness=70
 [PlasmaViews][Panel 48][Horizontal3840]
 thickness=70
 
+[PlasmaViews][Panel 71]
+alignment=1
+panelVisibility=1
+
 [PlasmaViews][Panel 71][Defaults]
 thickness=70
 

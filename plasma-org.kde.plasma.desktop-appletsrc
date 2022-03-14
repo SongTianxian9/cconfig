@@ -25,6 +25,8 @@ DialogWidth=1120
 PreloadWeight=0
 
 [Containments][70][General]
+ToolBoxButtonState=topcenter
+ToolBoxButtonX=1517
 positions=1,23,desktop:/教育部学籍在线验证报告_宋天祥.pdf,0,5,desktop:/clash-linux-amd64-v1.9.0,0,4,desktop:/SwitchHosts_linux_x86_64_4.1.1.6077.AppImage,0,3,desktop:/books,0,2,desktop:/xunlei,0,1,desktop:/DevSidecar-1.7.2.AppImage,0,0
 sortMode=-1
 
@@ -68,6 +70,10 @@ plugin=org.kde.plasma.icontasks
 [Containments][71][Applets][74][Configuration]
 PreloadWeight=0
 
+[Containments][71][Applets][74][Configuration][ConfigDialog]
+DialogHeight=840
+DialogWidth=1120
+
 [Containments][71][Applets][74][Configuration][General]
 launchers=applications:systemsettings.desktop,applications:org.kde.discover.desktop,preferred://filemanager,preferred://browser,applications:kitty.desktop
 
@@ -99,6 +105,10 @@ plugin=org.kde.plasma.showdesktop
 
 [Containments][71][Applets][88][Configuration]
 PreloadWeight=0
+
+[Containments][71][ConfigDialog]
+DialogHeight=109
+DialogWidth=3840
 
 [Containments][71][Configuration]
 PreloadWeight=0

@@ -6,12 +6,18 @@ OpenGLIsUnsafe=false
 
 [Desktops]
 Id_1=5cd49dc9-5e3b-468f-bbf6-c56158e75504
-Number=1
+Id_2=ea7baad7-6993-4129-96fe-25c0ee47b149
+Number=2
 Rows=1
 
 [Plugins]
+desktopchangeosdEnabled=true
 fallapartEnabled=true
+kwin-script-tilingEnabled=true
 kwin4_effect_translucencyEnabled=true
+minimizeallEnabled=true
+synchronizeskipswitcherEnabled=true
+videowallEnabled=true
 wobblywindowsEnabled=true
 
 [org.kde.kdecoration2]
