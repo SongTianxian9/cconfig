@@ -1,0 +1,32 @@
+[Devices][/org/freedesktop/UDisks2/block_devices/nvme0n1p1]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=300.0 MiB 内置驱动器 (nvme0n1p1)
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/nvme0n1p3]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=222.2 GiB 内置驱动器 (nvme0n1p3)
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sda1]
+EverMounted=true
+Icon=drive-harddisk-root
+LastNameSeen=931.5 GiB 内置驱动器 (sda1)
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdb1]
+EverMounted=true
+Icon=drive-removable-media-usb
+LastNameSeen=Ventoy
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdb2]
+Icon=drive-removable-media-usb
+LastNameSeen=VTOYEFI
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdc1]
+EverMounted=true
+Icon=drive-removable-media-usb
+LastNameSeen=14.8 GiB 可移动设备

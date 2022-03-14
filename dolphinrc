@@ -1,0 +1,15 @@
+[General]
+Version=201
+ViewPropsTimestamp=2022,3,8,15,7,16.334
+
+[KPropertiesDialog]
+DP-1 Height 2560x1440=599
+DP-1 Width 2560x1440=409
+
+[MainWindow]
+DP-1 Height 2560x1440=764
+DP-1 Width 2560x1440=1388
+DP-1 XPosition 2560x1440=488
+DP-1 YPosition 2560x1440=225
+MenuBar=Disabled
+ToolBarsMovable=Disabled

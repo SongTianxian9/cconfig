@@ -1,0 +1,8 @@
+[Adapters]
+D4:54:8B:B3:C1:20_powered=true
+
+[Devices]
+connectedDevices=F4:73:35:3B:BC:C3
+
+[Global]
+launchState=enable

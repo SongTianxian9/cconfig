@@ -1,0 +1,11 @@
+ProxyUrlDisplayFlags=8
+
+[Proxy Settings]
+NoProxyFor=localhost,127.0.0.1
+Proxy Config Script=
+ProxyType=0
+ReversedException=false
+ftpProxy=
+httpProxy=http://127.0.0.1:7890
+httpsProxy=
+socksProxy=socks://127.0.0.1:7891

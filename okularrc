@@ -1,0 +1,23 @@
+[Desktop Entry]
+FullScreen=false
+
+[MainWindow]
+DP-1 Height 2560x1440=1004
+DP-1 Width 2560x1440=1419
+DP-1 XPosition 2560x1440=447
+DP-1 YPosition 2560x1440=215
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABYsAAAO+AAAABAAAAAQAAAAIAAAACPwAAAADAAAAAQAAAAEAAAAsAHEAdQBpAGMAawBBAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHICAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Desktop/books/cprogramminglab.pdf
+File2[$e]=/opt/texlive/2021/texmf-dist/doc/latex/lshort-chinese/lshort-zh-cn.pdf
+File3[$e]=$HOME/Desktop/教育部学籍在线验证报告_宋天祥.pdf
+File4[$e]=/opt/texlive/2021/texmf-dist/doc/fonts/fira/fira-samples.pdf
+File5[$e]=$HOME/Downloads/Kerninghan, Brian W._Ritchie, Dennis M - The C programming language (1998_1988, Pearson Education_Prentice Hall) - libgen.lc.epub
+Name1[$e]=cprogramminglab.pdf
+Name2[$e]=lshort-zh-cn.pdf
+Name3[$e]=教育部学籍在线验证报告_宋天祥.pdf
+Name4[$e]=fira-samples.pdf
+Name5[$e]=Kerninghan, Brian W._Ritchie, Dennis M - The C programming language (1998_1988, Pearson Education_Prentice Hall) - libgen.lc.epub

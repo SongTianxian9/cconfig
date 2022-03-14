@@ -1,0 +1,14 @@
+{
+	"imageFolderPath": "/home/songtx/.config/marktext/images/",
+	"screenshotFolderPath": "/home/songtx/.config/marktext/screenshot/",
+	"webImages": [],
+	"cloudImages": [],
+	"currentUploader": "none",
+	"imageBed": {
+		"github": {
+			"owner": "",
+			"repo": "",
+			"branch": ""
+		}
+	}
+}

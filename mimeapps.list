@@ -1,0 +1,15 @@
+[Added Associations]
+inode/directory=org.kde.dolphin.desktop;
+x-scheme-handler/geo=qwant-maps-geo-handler.desktop;
+x-scheme-handler/http=firefox.desktop;
+x-scheme-handler/https=firefox.desktop;
+x-scheme-handler/mailto=emacsclient-mail.desktop;
+
+[Default Applications]
+application/pdf=mupdf.desktop
+inode/directory=org.kde.dolphin.desktop;
+x-scheme-handler/baiduyunguanjia=baidunetdisk.desktop
+x-scheme-handler/geo=qwant-maps-geo-handler.desktop;
+x-scheme-handler/http=firefox.desktop;
+x-scheme-handler/https=firefox.desktop;
+x-scheme-handler/mailto=emacsclient-mail.desktop;

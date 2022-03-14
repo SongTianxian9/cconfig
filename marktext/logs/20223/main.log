@@ -1,0 +1,4 @@
+[2022-03-11 10:07:02.299] [error] Error while installing Hunspell default dictionary. Mark Text resources are corrupted!
+[2022-03-11 10:07:02.804] [error] Failed to decrypt secure keys: Error: The name org.freedesktop.secrets was not provided by any .service files
+[2022-03-12 08:48:01.567] [error] Error while installing Hunspell default dictionary. Mark Text resources are corrupted!
+[2022-03-12 08:48:03.756] [error] Failed to decrypt secure keys: Error: The name org.freedesktop.secrets was not provided by any .service files

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/tmp/.mount_DevSido0ppfl/@docmirrordev-sidecar-gui
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=DevSidecar
+Name=DevSidecar
+Comment[en_US]=
+Comment=

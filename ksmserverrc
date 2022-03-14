@@ -1,0 +1,32 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[General]
+loginMode=emptySession
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=1012c15314dab000164672397700000007520005
+clientId2=1012c15314dab000164672398200000007520007
+clientId3=1012c15314dab000164672476600000007520011
+clientId4=1012c15314dab000164672550200000007520015
+count=4
+discardCommand4[$e]=rm,$HOME/.config/session/systemsettings_1012c15314dab000164672550200000007520015_1646725807_732524
+program1=/usr/lib/DiscoverNotifier
+program2=pulseaudio
+program3=firefox
+program4=/usr/bin/systemsettings
+restartCommand1=/usr/lib/DiscoverNotifier,-session,1012c15314dab000164672397700000007520005_1646725807_732463
+restartCommand2=
+restartCommand3=/usr/lib/firefox/firefox,--sm-client-id,1012c15314dab000164672476600000007520011
+restartCommand4=/usr/bin/systemsettings,-session,1012c15314dab000164672550200000007520015_1646725807_732524
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+restartStyleHint4=0
+userId1=songtx
+userId2=songtx
+userId3=songtx
+userId4=songtx
