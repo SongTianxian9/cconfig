@@ -1,2 +1,3 @@
-2022/03/13-12:47:34.345 3d94 Creating DB /home/songtx/.config/chromium/Default/Extension Rules since it was missing.
-2022/03/13-12:47:34.357 3d94 Reusing MANIFEST /home/songtx/.config/chromium/Default/Extension Rules/MANIFEST-000001
+2022/03/15-08:34:54.914 992 Reusing MANIFEST /home/songtx/.config/chromium/Default/Extension Rules/MANIFEST-000001
+2022/03/15-08:34:54.914 992 Recovering log #3
+2022/03/15-08:34:54.914 992 Reusing old log /home/songtx/.config/chromium/Default/Extension Rules/000003.log 

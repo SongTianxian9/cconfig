@@ -1,0 +1,12 @@
+2022/03/16-20:19:59.059 760 Reusing MANIFEST /home/songtx/.config/listen1/Local Storage/leveldb/MANIFEST-000001
+2022/03/16-20:19:59.059 760 Recovering log #15
+2022/03/16-20:19:59.060 760 Reusing old log /home/songtx/.config/listen1/Local Storage/leveldb/000015.log 
+2022/03/16-20:21:32.558 760 Level-0 table #20: started
+2022/03/16-20:21:32.596 760 Level-0 table #20: 39750 bytes OK
+2022/03/16-20:21:32.597 760 Delete type=0 #15
+2022/03/16-20:25:52.371 799 Level-0 table #22: started
+2022/03/16-20:25:52.384 799 Level-0 table #22: 39008 bytes OK
+2022/03/16-20:25:52.385 799 Delete type=0 #19
+2022/03/16-20:32:58.939 760 Level-0 table #24: started
+2022/03/16-20:32:58.978 760 Level-0 table #24: 50063 bytes OK
+2022/03/16-20:32:58.979 760 Delete type=0 #21

@@ -1,3 +1,16 @@
+[PlasmaTransientsConfig]
+PreloadWeight=42
+
+[PlasmaViews][Panel 115]
+alignment=132
+panelVisibility=0
+
+[PlasmaViews][Panel 115][Defaults]
+thickness=30
+
+[PlasmaViews][Panel 115][Horizontal3840]
+thickness=30
+
 [PlasmaViews][Panel 2][Defaults]
 thickness=44
 
@@ -24,6 +37,12 @@ panelVisibility=1
 thickness=70
 
 [PlasmaViews][Panel 71][Horizontal3840]
+thickness=70
+
+[PlasmaViews][Panel 93][Defaults]
+thickness=70
+
+[PlasmaViews][Panel 93][Horizontal3840]
 thickness=70
 
 [ScreenConnectors]

@@ -1,26 +1,25 @@
 [Devices][/org/freedesktop/UDisks2/block_devices/nvme0n1p1]
 EverMounted=true
 Icon=drive-harddisk
-LastNameSeen=300.0 MiB 内置驱动器 (nvme0n1p1)
+LastNameSeen=300.0 MiB Internal Drive (nvme0n1p1)
 LastSeenMounted=true
 
 [Devices][/org/freedesktop/UDisks2/block_devices/nvme0n1p3]
 EverMounted=true
 Icon=drive-harddisk
-LastNameSeen=222.2 GiB 内置驱动器 (nvme0n1p3)
+LastNameSeen=222.2 GiB Internal Drive (nvme0n1p3)
 LastSeenMounted=true
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sda1]
 EverMounted=true
 Icon=drive-harddisk-root
-LastNameSeen=931.5 GiB 内置驱动器 (sda1)
+LastNameSeen=931.5 GiB Internal Drive (sda1)
 LastSeenMounted=true
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sdb1]
 EverMounted=true
 Icon=drive-removable-media-usb
 LastNameSeen=Ventoy
-LastSeenMounted=true
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sdb2]
 Icon=drive-removable-media-usb

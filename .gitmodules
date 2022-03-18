@@ -1,3 +1,6 @@
 [submodule "kitty-themes"]
 	path = kitty-themes
 	url = git@github.com:dexpota/kitty-themes.git
+[submodule "tmux/plugins/extrakto"]
+	path = tmux/plugins/extrakto
+	url = git@github.com:laktak/extrakto.git

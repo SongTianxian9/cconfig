@@ -1,0 +1,6 @@
+2022/03/15-08:39:42.831 d81 Creating DB /home/songtx/.config/chromium/Default/IndexedDB/chrome-extension_mlomiejdfkolichcflejclcbmpeaniij_0.indexeddb.leveldb since it was missing.
+2022/03/15-08:39:42.834 d81 Reusing MANIFEST /home/songtx/.config/chromium/Default/IndexedDB/chrome-extension_mlomiejdfkolichcflejclcbmpeaniij_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/15-08:39:43.004 d81 Level-0 table #5: started
+2022/03/15-08:39:43.005 d81 Level-0 table #5: 2540 bytes OK
+2022/03/15-08:39:43.006 d81 Delete type=0 #3
+2022/03/15-08:39:43.006 d81 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

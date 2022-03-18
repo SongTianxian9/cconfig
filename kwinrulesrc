@@ -1,2 +1,24 @@
 [$Version]
 update_info=kwinrules.upd:replace-placement-string-to-enum,kwinrules.upd:use-virtual-desktop-ids
+
+[1]
+Description=Window settings for fceux-native
+clientmachine=localhost
+title=Native Application
+titlematch=1
+types=1
+wmclass=fceux-native
+wmclassmatch=1
+
+[3e04ce42-4ae8-4160-a075-118223926ae5]
+Description=Window settings for fceux-native
+clientmachine=localhost
+title=Native Application
+titlematch=1
+types=1
+wmclass=fceux-native
+wmclassmatch=1
+
+[General]
+count=1
+rules=1

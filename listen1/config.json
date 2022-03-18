@@ -1,0 +1,17 @@
+{
+	"floatingWindowBounds": {
+		"x": 1280,
+		"y": 473,
+		"width": 1280,
+		"height": 474
+	},
+	"windowState": {
+		"width": 1000,
+		"height": 670,
+		"maximized": true,
+		"zoomLevel": 0
+	},
+	"proxyConfig": {
+		"mode": "system"
+	}
+}

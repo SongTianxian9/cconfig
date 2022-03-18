@@ -1,0 +1,12 @@
+{
+    "http_port": 7890,
+    "socks5_port": 7891,
+    "redir_port": 7892, 
+    "allow_lan": true,
+    "external_controller": "127.0.0.1:9090",
+    "subscribe_url": "https://update.glados-config.com/clash/140625/433abf1/19281/glados.yaml",
+    "is_subscribe_banned": false, 
+    "custom_rules": [],
+    "mmdb_file_url": "https://cdn.jsdelivr.net/gh/alecthw/mmdb_china_ip_list@release/Country.mmdb",
+    "mmdb_version_url": "https://cdn.jsdelivr.net/gh/alecthw/mmdb_china_ip_list@release/version"
+}
