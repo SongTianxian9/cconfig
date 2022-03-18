@@ -20,6 +20,7 @@ LastSeenMounted=true
 EverMounted=true
 Icon=drive-removable-media-usb
 LastNameSeen=Ventoy
+LastSeenMounted=true
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sdb2]
 Icon=drive-removable-media-usb
